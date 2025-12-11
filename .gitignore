@@ -1,0 +1,10 @@
+__pycache__/ 
+*.pyc 
+venv/ 
+.pytest_cache/ 
+custom_csv.egg-info/ 
+bench/large_test.csv 
+bench/results.csv 
+.vscode/ 
+.DS_Store 
+Thumbs.db 
