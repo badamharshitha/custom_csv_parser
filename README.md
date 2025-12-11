@@ -34,4 +34,6 @@ Parser uses a 3-state machine: `FIELD`, `QUOTED`, `AFTER_QUOTE`. Supports:
 - Tests: `pytest`
 - Lint/format: `black`, `flake8`
 
-License: MIT
+## License
+All rights reserved © 2025 B.N.S. Harshitha.
+
